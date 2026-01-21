@@ -42,7 +42,7 @@ const social: Social = [
   },
 ];
 
-// --- HALAMAN HOME ---
+// --- HALAMAN HOME (SUDAH DIPERBARUI) ---
 const home: Home = {
   path: "/",
   image: "/images/og/home.jpg",
@@ -65,8 +65,8 @@ const home: Home = {
   },
   subline: (
     <>
-      I am Helsen, a Jakarta-based professional with over <Text as="span" size="xl" weight="strong">10 years of experience</Text> ensuring system reliability and network security. <br/><br/>
-      I bridge the gap between hardware infrastructure and software innovation, building dynamic web solutions with <Text as="span" weight="strong">Laravel, Node.js, and WordPress</Text> while maintaining robust <Text as="span" weight="strong">Enterprise Networks</Text>.
+      Experienced IT professional with a strong background in <Text as="span" weight="strong">Network Administration, Hardware Maintenance, and ERP Systems</Text>. <br/><br/>
+      I combine technical infrastructure knowledge with <Text as="span" weight="strong">Web Application Development</Text> — utilizing <Text as="span" weight="strong">Laravel and Node.js</Text> — to build internal tools that optimize operational efficiency.
     </>
   ),
 };
@@ -124,8 +124,8 @@ const about: About = {
       {
         company: "PT. Sinar Mulia Makmur (Newton Technologi)",
         timeframe: {
-            en: "Sep 2025 - Present",
-            id: "Sep 2025 - Sekarang"
+            en: "Sep 2024 - Present", // Saya koreksi tahunnya jadi 2024 sesuai CV
+            id: "Sep 2024 - Sekarang"
         } as any,
         role: { en: "IT System Developer & Support (Supervisor)", id: "IT System Developer & Support (Supervisor)" } as any,
         achievements: {

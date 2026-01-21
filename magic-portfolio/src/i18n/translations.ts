@@ -4,8 +4,9 @@ export const translations = {
   en: {
     hero: {
       headline: "IT Infrastructure & Web Developer",
-      subline: "I am Helsen, a Jakarta-based professional with over 10 years of experience ensuring system reliability and network security.",
-      description: "I bridge the gap between hardware infrastructure and software innovation, building dynamic web solutions with Laravel, Node.js, and WordPress while maintaining robust Enterprise Networks.",
+      // Mengganti "Versatile" menjadi "Experienced" (Lebih profesional)
+      subline: "Experienced IT professional bridging the gap between hardware infrastructure and software innovation. With over 10 years of experience in Network & ERP management, I build dynamic web solutions using Laravel and Node.js to optimize business operations.",
+      description: "", 
       downloadCv: "Download CV",
       aboutButton: "About Me"
     },
@@ -24,8 +25,9 @@ export const translations = {
   id: {
     hero: {
       headline: "IT Infrastructure & Web Developer",
-      subline: "Saya Helsen, profesional berbasis di Jakarta dengan lebih dari 10 tahun pengalaman dalam menjamin keandalan sistem dan keamanan jaringan.",
-      description: "Saya menjembatani kesenjangan antara infrastruktur hardware dan inovasi software, membangun solusi web dinamis dengan Laravel, Node.js, dan WordPress sambil menjaga kestabilan Jaringan Enterprise.",
+      // Mengganti "serbabisa" menjadi "berpengalaman"
+      subline: "Profesional IT berpengalaman yang menjembatani infrastruktur perangkat keras dan inovasi perangkat lunak. Dengan pengalaman lebih dari 10 tahun dalam manajemen Jaringan & ERP, saya membangun solusi web dinamis menggunakan Laravel dan Node.js untuk mengoptimalkan operasional bisnis.",
+      description: "", 
       downloadCv: "Unduh CV",
       aboutButton: "Tentang Saya"
     },
