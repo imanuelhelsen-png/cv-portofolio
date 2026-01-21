@@ -6,7 +6,7 @@ const person: Person = {
   firstName: "Helsen",
   lastName: "Khores",
   name: "Helsen Khores Yehuda",
-  role: "IT Specialist",
+  role: "IT Infrastructure & Web Developer",
   avatar: "/images/helsen.jpg", 
   email: "imanuelhelsen@gmail.com",
   location: "Asia/Jakarta",
