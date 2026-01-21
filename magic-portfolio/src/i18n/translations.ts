@@ -3,7 +3,7 @@
 export const translations = {
   en: {
     hero: {
-      headline: "IT Infrastructure & Web Developer",
+      headline: "IT",
       // Mengganti "Versatile" menjadi "Experienced" (Lebih profesional)
       subline: "Experienced IT professional bridging the gap between hardware infrastructure and software innovation. With over 10 years of experience in Network & ERP management, I build dynamic web solutions using Laravel and Node.js to optimize business operations.",
       description: "", 
