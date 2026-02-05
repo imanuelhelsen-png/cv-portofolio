@@ -1,7 +1,7 @@
 import { Meta } from "@once-ui-system/core";
 import { home, baseURL } from "@/resources";
 import HomeContent from "@/components/HomeContent";
-import { Projects } from "@/components/work/Projects"; // Import Projects di sini (Server Side)
+import { Projects } from "@/components/work/Projects"; 
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from "@vercel/analytics/next"
 
