@@ -323,5 +323,8 @@
     "url": "https://github.com/imanuelhelsen-png/cv-portofolio/issues"
   },
   "homepage": "https://github.com/imanuelhelsen-png/cv-portofolio#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.2.0"
+  }
 }
