@@ -1,0 +1,11 @@
+/* --- Custom Animation for Company Cards --- */
+.company-card {
+  transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.company-card:hover {
+  transform: scale(1.05); /* Membesar 5% */
+  background-color: rgba(255, 255, 255, 0.05); /* Sedikit lebih terang */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Bayangan lebih dalam */
+}
