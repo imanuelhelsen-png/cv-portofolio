@@ -143,7 +143,6 @@
     "kind-of": "^6.0.3",
     "levn": "^0.4.1",
     "lightningcss": "^1.30.2",
-    "lightningcss-win32-x64-msvc": "^1.30.2",
     "lint-staged": "^16.2.6",
     "listr2": "^9.0.5",
     "locate-path": "^6.0.0",
@@ -310,5 +309,13 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imanuelhelsen-png/cv-portofolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imanuelhelsen-png/cv-portofolio/issues"
+  },
+  "homepage": "https://github.com/imanuelhelsen-png/cv-portofolio#readme",
   "description": ""
 }
